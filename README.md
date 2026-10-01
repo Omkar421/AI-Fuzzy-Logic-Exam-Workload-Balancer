@@ -93,3 +93,7 @@ The important design decision is that the LLM handles language and explanation, 
 | `test_fuzzy_engine.py` | Basic fuzzy-engine tests |
 | `requirements.txt` | Python dependencies |
 | `REPORT.md` | Five-page write-up draft |
+
+
+Screenshot:-
+
