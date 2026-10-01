@@ -95,5 +95,4 @@ The important design decision is that the LLM handles language and explanation, 
 | `REPORT.md` | Five-page write-up draft |
 
 
-Screenshot:-
 
